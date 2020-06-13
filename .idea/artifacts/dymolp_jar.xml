@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="dymolp:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/dymolp_jar</output-path>
+    <root id="archive" name="dymolp.jar">
+      <element id="module-output" name="dymolp" />
+      <element id="file-copy" path="$PROJECT_DIR$/src/3of9.TTF" />
+    </root>
+  </artifact>
+</component>
